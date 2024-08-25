@@ -1,0 +1,83 @@
+[
+    {
+        "question":"which variable we store in global scope?",
+        "option1":"var",
+        "option2":"let",
+        "option3":"const",
+        "option4":"int",
+        "ans":1                                                                                                
+        
+    },
+    {
+        "question":"which one is equality operator??",
+        "option1":"==",
+        "option2":"===",
+        "option3":"=",
+        "option4":"None of the above",
+        "ans":1
+    },
+    {
+        "question":"what is the return type of array",
+        "option1":"function",
+        "option2":"object",
+        "option3":"array",
+        "option4":"string",
+        "ans":2
+    },
+    {
+        "question":"by using which ,method we can insert the array element at the end",
+        "option1":"push",
+        "option2":"pop",
+        "option3":"shift",
+        "option4":"unshift",
+        "ans":1
+    },
+    {
+        "question":"how many types of scope we have in js?",
+        "option1":"global scope",
+        "option2":"script scope",
+        "option3":"local scope",
+        "option4":"All Of The above",
+        "ans":4
+    },
+    {
+       "question":"how to handle promise?",
+        "option1":"then and catch",
+        "option2":"then and finally",
+        "option3":"try and finally",
+        "option4":"try,catch and finally",
+        "ans":4 
+    },
+    {
+        "question":"which operator is mandatory to perform async function ?",
+        "option1":"spread operator",
+        "option2":"equality operator",
+        "option3":"await operator",
+        "option4":"None of the above",
+        "ans":3
+    },
+    {
+"question":"What will be the output of the following code  print(typeof(NaN));",
+"option1":"Object",
+"option2":"Number",
+"option3":"String",
+"option4":"None of the above",
+"ans":2
+    },
+    {
+        "question":"When an operator’s value is NULL, the typeof returned by the unary operator is:",
+         "option1":"Boolean",
+         "option2":"Undefined",
+        "option3":"Object",
+        "option4":"Integer",
+        "ans":3
+    },
+    {
+        "question":"Which of the following are closures in Javascript?",
+        "option1":"Variable",
+        "option2":"Function",
+       "option3":"Objects",
+       "option4":"All Of The above",
+       "ans":4
+    }
+]
